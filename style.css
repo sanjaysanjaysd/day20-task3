@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(250, 239, 143);
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card img {
+    max-width: 100%;
+}
+
+.card-body {
+    text-align: center;
+}
